@@ -1,4 +1,4 @@
-variable "ACCEES_KEY" {
+variable "ACCESS_KEY" {
     type = string
 }
 
